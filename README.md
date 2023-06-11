@@ -174,15 +174,4 @@ The service notification can be optionally customized by passing a `notification
 * [ ] Implement the `ExpandableView` feature in the original library ⚡
 * [x] Implement the the rest of the available callbacks in the original library `onMove(x,y)`, `onUp(x,y)`, and `onDown(x,y)` 🔗
 
-## 💪🏻 Contribution Guide
 
-I would be happy to have your contributions 💙
-
-If you find a bug or want a feature, but don't know how to fix/implement it, please fill an [Issue](https://github.com/moazelsawaf/dash_bubble/issues).  
-If you fixed a bug or implemented a feature, please send a [Pull Request](https://github.com/moazelsawaf/dash_bubble/pulls).
-
-<a href="https://github.com/moazelsawaf/dash_bubble/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=moazelsawaf/dash_bubble" />
-</a>
-
-Made with [contrib.rocks](https://contrib.rocks).
